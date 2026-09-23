@@ -1,5 +1,5 @@
 table,td,th{border: 1px solid black;}
-table{background-color: black;}
+table{background-color: black; width: 100%;}
 th{background-color: cornsilk;}
 tr:nth-child(4){background-color: brown;}
 tr:nth-child(2){background-color: brown;}
@@ -13,4 +13,7 @@ tr:nth-child(3){color: white ;}
 tr:nth-child(5){color: white;}
 tr:nth-child(4){color: aqua;}
 tr:nth-child(2){color:aqua;}
+th:nth-child(1){text-align: left;}
+th:nth-child(4){text-align: right;}
+
 
