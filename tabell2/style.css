@@ -1,0 +1,17 @@
+table{
+width: 500px; height: 500px;}
+ td,tr, table{border: 1px solid black; border-collapse: collapse;}
+ 
+
+
+
+
+ .blue{background-color: blue;}
+
+ .red{background-color: red;}
+
+ .yellow{background-color: yellow;}
+
+ .black{background-color: black;}
+
+ .green{background-color: greenyellow;}
